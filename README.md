@@ -161,7 +161,7 @@ I've explored engineering through:
 
 ---
 
-## 📚 Continuous Learning
+## 📚 Learning
 
 Currently building my technical foundation through hands-on learning in:
 
@@ -201,22 +201,5 @@ Especially projects where an engineering problem can be designed, implemented, t
 
 ---
 
-## 📈 My Current Direction
-
-```text
-Electronics & Communication Engineering
-                    │
-                    ▼
-          Embedded Systems
-                    │
-          ┌─────────┴─────────┐
-          ▼                   ▼
-         IoT            Communication
-          │                   │
-          ▼                   ▼
- Industrial Systems      RF / Antennas
-          │                   │
-          └─────────┬─────────┘
-                    ▼
              Avionics /
           Real-World Systems
