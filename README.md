@@ -2,27 +2,9 @@
 
 ### Electronics & Communication Engineering Undergraduate | Embedded Systems | IoT | Communication | Avionics
 
-I'm an Electronics and Communication Engineering undergraduate specializing in Embedded Systems and Industrial IoT.
+I'm a Final Year Electronics and Communication Engineering undergraduate specializing in Embedded Systems and Industrial IoT.
 
 I enjoy building practical engineering systems that combine electronics, microcontrollers, sensors, communication technologies and software to solve real-world problems.
-
----
-
-## 🔧 What I Work With
-
-- Embedded Systems
-- Microcontrollers & Embedded Programming
-- Internet of Things (IoT)
-- Sensors & Actuators
-- Industrial Automation
-- PLC
-- Communication Systems
-- Wireless Communication
-- Antennas & RF
-- Avionics & Aviation Technologies
-- Signal Processing
-- RFID & Asset Monitoring
-- Electronics Prototyping
 
 ---
 
@@ -34,18 +16,6 @@ I enjoy building practical engineering systems that combine electronics, microco
 - ✈️ Aviation and avionics-oriented engineering projects
 - 📐 Antenna and RF-related work
 - 🛠️ Hardware-software integration and prototyping
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Embedded Systems
-- Microcontroller-based System Design
-- PLC & Industrial Automation
-- AutoCAD Electrical
-- Communication Systems
-- Antenna & RF Technologies
-- System Integration & Troubleshooting
 
 ---
 
@@ -115,9 +85,7 @@ A practical AI project developed using Python and knowledge-based retrieval for 
 
 ## ✈️ Areas of Interest
 
-My interests lie at the intersection of:
-
-**Embedded Systems • IoT • Communication Systems • Antennas & RF • Industrial Automation • Avionics**
+My interests lie at the intersection of: **Embedded Systems , IoT , Communication Systems , Antennas & RF , Industrial Automation and Avionics**
 
 I'm particularly interested in how electronics and communication technologies are applied in:
 
@@ -143,38 +111,6 @@ I'm exploring areas including:
 - Avionics Systems
 - Aviation Electronics
 - Navigation & Tracking Systems
-
----
-
-## 🏆 Technical Activities
-
-I've explored engineering through:
-
-- Academic projects
-- Technical competitions
-- Hackathons & ideathons
-- Engineering workshops
-- Entrepreneurship programs
-- Embedded and IoT projects
-- Communication and antenna projects
-- Aerospace and aviation-oriented projects
-
----
-
-## 📚 Learning
-
-Currently building my technical foundation through hands-on learning in:
-
-- Embedded Systems
-- IoT
-- PLC & Industrial Automation
-- Communication Systems
-- Python
-- MATLAB
-- Engineering Simulation
-- AI/GenAI fundamentals
-
-I focus on developing practical understanding through projects rather than simply collecting certifications.
 
 ---
 
