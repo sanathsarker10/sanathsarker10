@@ -199,7 +199,3 @@ Especially projects where an engineering problem can be designed, implemented, t
 
 **Electronics & Communication Engineering • Embedded Systems • ESP32 • Microcontrollers • IoT • Sensors • RFID • Communication Systems • Antennas • Avionics • Aviation Technology • Industrial Automation • PLC Fundamentals**
 
----
-
-             Avionics /
-          Real-World Systems
